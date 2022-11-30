@@ -1,0 +1,2 @@
+//test eol
+function abc()
